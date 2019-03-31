@@ -6,7 +6,7 @@
 name: Steffen Wilke
 
 # Short bio or description (displayed in the header)
-description: C#/Java Developer and Video Game enthusiast
+description: Bavarian software developer - Gaming enthusiast - sometimes I sleep
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/7015370?s=400&u=2fa4541f32e16d2b348ea142e793cb4ad4d1ee93&v=4
@@ -18,16 +18,16 @@ avatar: https://avatars3.githubusercontent.com/u/7015370?s=400&u=2fa4541f32e16d2
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mail@steffen-wilke.com 
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: steffen-wilke
   instagram:
-  linkedin:
+  linkedin: steffen-wilke-494bbaa6
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: SteffenTweet
+  stackoverflow: users/7266981/steffen # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
