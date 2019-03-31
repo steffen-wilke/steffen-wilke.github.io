@@ -15,7 +15,7 @@ Reading through the documentation, I found out that there are currently only a f
 the generated documentation. Working late hours or on side projects at night, a dark UI option is almost a dealbreaker at this point for me regarding any kind of software or website.
 
 Looking at the DocFX project, I think it is the future of API documentation, especially for C# projects. And this is why I decided to dedicate some of
-my time to create a dark theme for it. Now, have a look at the results I've com up with:
+my time to create a dark theme for it. Now, have a look at the results I've come up with:
 
 ![_config.yml]({{ site.baseurl }}/images/darkfx.png)
 
