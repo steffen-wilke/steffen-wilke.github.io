@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, I'm Steffen from Germany. I develop software as a day job, I develop software in my freetime, I develop and play video games, and sometimes, I also sleep.
 
 ### Contact me
 
