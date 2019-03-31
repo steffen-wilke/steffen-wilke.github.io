@@ -17,7 +17,6 @@ the generated documentation. Working late hours or on side projects at night, a 
 Looking at the DocFX project, I think it is the future of API documentation, especially for C# projects. And this is why I decided to dedicate some of
 my time to create a dark theme for it. Now, have a look at the results I've com up with:
 
-After getting into themes and 
 ![_config.yml]({{ site.baseurl }}/images/darkfx.png)
 
 ### Check out the **[Live Demo](https://steffen-wilke.com/darkfx/articles/intro.html)**.
