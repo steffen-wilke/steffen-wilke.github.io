@@ -3,7 +3,7 @@ layout: post
 title: Creating DarkFX- The dark theme for DocFX!
 ---
 
-Recently I started to play around with Microsoft's tool [DocFX](https://dotnet.github.io/docfx/) for documentation generation.
+Recently I started to play around with Microsoft's tool [DocFX](https://dotnet.github.io/docfx/) for documentation generation. And I thought it needs a dark color touch.
 
 ## Why I decided to create a dark theme for DocFX
 
