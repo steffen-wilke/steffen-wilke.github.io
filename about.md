@@ -8,7 +8,7 @@ Hi, I'm Steffen from Germany. I develop software as a day job, I develop softwar
 
 ### More information
 
-| Activity  | Details |
+|               |               |
 | ------------- | ------------- |
 | ![_config.yml]({{ site.baseurl }}/images/logo-wibemedia.png) | Since 2009, I'm working on web projects with a good friend of mine in our own small company [Wibe Media](https://www.wibemedia.de/)  |
 | ![_config.yml]({{ site.baseurl }}/images/logo-soloplan.png) | Since 2013, I'm working as a **C#** Software Developer at [Soloplan](https://soloplan.com), a logistics software company |
